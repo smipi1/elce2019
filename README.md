@@ -7,4 +7,5 @@
 * [Build Edge Native Applications Integrated with the Cloud - Gavin Lu, VMware](./cloud-native-edge-apps.md)
 * [Analysis of Speculative and Traditional Execution Side Channel and Protection Mechanisms - Antonio Gomez, Intel Corporation](./speculative-attacks.md)
 * [Timing Boot Time Reduction Techniques - Michael Opdenacker, Bootlin](boot-time-reduction-timing.md)
+* [One Build to Rule Them All: Building FreeRTOS & Linux Using Yocto - Alejandro Hernandez, Xilinx](./one-build-to-rule-them-all.md)
 
