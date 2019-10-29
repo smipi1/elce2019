@@ -10,4 +10,5 @@
 * [One Build to Rule Them All: Building FreeRTOS & Linux Using Yocto - Alejandro Hernandez, Xilinx](./one-build-to-rule-them-all.md)
 * [Overview of Universal Flash Storage Subsystem - Mohammad Faiz Abbas Rizvi, Texas Instruments India PVT LTD](./universal-flash-storage-system.md)
 * [Open Source and Functional Safety: Two Approaches to Bridge the Culture Clash - Kate Stewart, The Linux Foundation](./oss-functional-safety.md)
+* [Open Source Graphics 101: Getting Started - Boris Brezillon, Collabora](./oss-graphics-101.md)
 
