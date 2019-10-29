@@ -11,4 +11,6 @@
 * [Overview of Universal Flash Storage Subsystem - Mohammad Faiz Abbas Rizvi, Texas Instruments India PVT LTD](./universal-flash-storage-system.md)
 * [Open Source and Functional Safety: Two Approaches to Bridge the Culture Clash - Kate Stewart, The Linux Foundation](./oss-functional-safety.md)
 * [Open Source Graphics 101: Getting Started - Boris Brezillon, Collabora](./oss-graphics-101.md)
+* [Writing Your Own Gadget with Zephyr OS - Andrei Emeltchenko, Intel](./write-own-gadget-w-zephyr.md)
+* [Customize Real-Time Linux for Rocket Flight Control System - George Kang, Advanced Rocket Research Center, Taiwan, BiiLabs Co., Ltd.](./rt-linux-for-rockets.md)
 
