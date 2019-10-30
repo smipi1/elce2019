@@ -14,4 +14,4 @@
 * [Writing Your Own Gadget with Zephyr OS - Andrei Emeltchenko, Intel](./write-own-gadget-w-zephyr.md)
 * [Customize Real-Time Linux for Rocket Flight Control System - George Kang, Advanced Rocket Research Center, Taiwan, BiiLabs Co., Ltd.](./rt-linux-for-rockets.md)
 * [Keynote: Creatives Centered Culture - Rahaf Harfoush, Strategist, Digital Anthropologist, and Best-Selling Author](./creativity.md)
-
+* [An Ftrace Primer - Steven Rostedt, VMware](./ftrace-primer.md)
