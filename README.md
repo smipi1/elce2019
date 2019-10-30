@@ -15,3 +15,7 @@
 * [Customize Real-Time Linux for Rocket Flight Control System - George Kang, Advanced Rocket Research Center, Taiwan, BiiLabs Co., Ltd.](./rt-linux-for-rockets.md)
 * [Keynote: Creatives Centered Culture - Rahaf Harfoush, Strategist, Digital Anthropologist, and Best-Selling Author](./creativity.md)
 * [An Ftrace Primer - Steven Rostedt, VMware](./ftrace-primer.md)
+* [Running Linux on Constrained IOT Device - Rui Silva, Linaro & Tushar Khandelwal, Arm Ltd.](./linux-on-constrained-iot-device.md)
+* [Building an Open Source Framework for the Edge - Malini Bhandaru, VMware](./oss-framework-for-edge.md)
+* [Formal Verification Made Easy (and fast!) - Daniel Bristot de Oliveira, Red Hat](./easy-formal-verification.md)
+
